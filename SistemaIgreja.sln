@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaIgreja.API", "SistemaIgreja.API\SistemaIgreja.API.csproj", "{840B6D9B-70D7-40DA-979B-C3EA45AFF7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaIgreja.API", "SistemaIgreja.API\SistemaIgreja.API.csproj", "{840B6D9B-70D7-40DA-979B-C3EA45AFF7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaIgreja.Front", "SistemaIgreja.Front\SistemaIgreja.Front.csproj", "{AC6F62D8-CD63-423B-8ACA-0200A020FCD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaIgreja.Front", "SistemaIgreja.Front\SistemaIgreja.Front.csproj", "{AC6F62D8-CD63-423B-8ACA-0200A020FCD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaIgreja.Negocios", "SistemaIgreja.Negocios\SistemaIgreja.Negocios.csproj", "{4B6FA83A-7FA2-41AC-BF44-52D87968CF03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaIgreja.Negocios", "SistemaIgreja.Negocios\SistemaIgreja.Negocios.csproj", "{4B6FA83A-7FA2-41AC-BF44-52D87968CF03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaIgreja.Infra", "SistemaIgreja.Infra\SistemaIgreja.Infra.csproj", "{E0F16418-DCC3-41AE-B930-E49A1EB30EA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaIgreja.Infra", "SistemaIgreja.Infra\SistemaIgreja.Infra.csproj", "{E0F16418-DCC3-41AE-B930-E49A1EB30EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaIgreja.Models", "SistemaIgreja.Models\SistemaIgreja.Models.csproj", "{433EEBBB-8BFA-492C-B2E8-38ED3367981B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E0F16418-DCC3-41AE-B930-E49A1EB30EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F16418-DCC3-41AE-B930-E49A1EB30EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F16418-DCC3-41AE-B930-E49A1EB30EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433EEBBB-8BFA-492C-B2E8-38ED3367981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433EEBBB-8BFA-492C-B2E8-38ED3367981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433EEBBB-8BFA-492C-B2E8-38ED3367981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433EEBBB-8BFA-492C-B2E8-38ED3367981B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
