@@ -1,0 +1,15 @@
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\bin\Debug\net6.0\SistemaIgreja.Negocios.deps.json
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\bin\Debug\net6.0\SistemaIgreja.Negocios.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\bin\Debug\net6.0\SistemaIgreja.Negocios.pdb
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.csproj.AssemblyReference.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.AssemblyInfoInputs.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.AssemblyInfo.cs
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\refint\SistemaIgreja.Negocios.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.pdb
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\ref\SistemaIgreja.Negocios.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\bin\Debug\net6.0\SistemaIgreja.Infra.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\bin\Debug\net6.0\SistemaIgreja.Infra.pdb
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Negocios\obj\Debug\net6.0\SistemaIgreja.Negocios.csproj.CopyComplete

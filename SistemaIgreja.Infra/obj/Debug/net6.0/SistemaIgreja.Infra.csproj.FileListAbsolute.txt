@@ -1,0 +1,12 @@
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\bin\Debug\net6.0\SistemaIgreja.Infra.deps.json
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\bin\Debug\net6.0\SistemaIgreja.Infra.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\bin\Debug\net6.0\SistemaIgreja.Infra.pdb
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.csproj.AssemblyReference.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.AssemblyInfoInputs.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.AssemblyInfo.cs
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.csproj.CoreCompileInputs.cache
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\refint\SistemaIgreja.Infra.dll
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\SistemaIgreja.Infra.pdb
+C:\Users\igoro\OneDrive\Área de Trabalho\Repositorio\SistemaIgreja\SistemaIgreja.Infra\obj\Debug\net6.0\ref\SistemaIgreja.Infra.dll

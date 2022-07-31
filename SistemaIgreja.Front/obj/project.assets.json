@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.Front\\SistemaIgreja.Front.csproj",
+      "projectUniqueName": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.Front\\SistemaIgreja.Front.csproj",
       "projectName": "SistemaIgreja.Front",
-      "projectPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.Front\\SistemaIgreja.Front.csproj",
+      "projectPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.Front\\SistemaIgreja.Front.csproj",
       "packagesPath": "C:\\Users\\igoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.Front\\obj\\",
+      "outputPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.Front\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

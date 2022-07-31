@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "SistemaIgreja.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SistemaIgreja.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaIgreja.Infra.dll": {}
+        }
+      },
+      "SistemaIgreja.Negocios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "SistemaIgreja.Infra": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SistemaIgreja.Negocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaIgreja.Negocios.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SistemaIgreja.Infra/1.0.0": {
+      "type": "project",
+      "path": "../SistemaIgreja.Infra/SistemaIgreja.Infra.csproj",
+      "msbuildProject": "../SistemaIgreja.Infra/SistemaIgreja.Infra.csproj"
+    },
+    "SistemaIgreja.Negocios/1.0.0": {
+      "type": "project",
+      "path": "../SistemaIgreja.Negocios/SistemaIgreja.Negocios.csproj",
+      "msbuildProject": "../SistemaIgreja.Negocios/SistemaIgreja.Negocios.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "SistemaIgreja.Negocios >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\igoro\\.nuget\\packages\\": {},
@@ -15,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.API\\SistemaIgreja.API.csproj",
+      "projectUniqueName": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.API\\SistemaIgreja.API.csproj",
       "projectName": "SistemaIgreja.API",
-      "projectPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.API\\SistemaIgreja.API.csproj",
+      "projectPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.API\\SistemaIgreja.API.csproj",
       "packagesPath": "C:\\Users\\igoro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Estudo\\DEVPratica\\SistemaIgreja\\SistemaIgreja.API\\obj\\",
+      "outputPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -40,7 +77,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.Negocios\\SistemaIgreja.Negocios.csproj": {
+              "projectPath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.Negocios\\SistemaIgreja.Negocios.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

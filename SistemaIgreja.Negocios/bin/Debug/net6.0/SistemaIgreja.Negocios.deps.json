@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SistemaIgreja.Negocios/1.0.0": {
+        "dependencies": {
+          "SistemaIgreja.Infra": "1.0.0"
+        },
+        "runtime": {
+          "SistemaIgreja.Negocios.dll": {}
+        }
+      },
+      "SistemaIgreja.Infra/1.0.0": {
+        "runtime": {
+          "SistemaIgreja.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaIgreja.Negocios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaIgreja.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
