@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "lGqxYFZTvZ3IwIirI968GWFXmrb62GH8b+xCxgUbMLCGl7fqb9k8SVn8yLnKPate7ti07OmEUJ9p1ehSCY3Xgg==",
+  "dgSpecHash": "YOl8HHkdvJ0zraZF/cCSH020NYVFKIZ97yh2WECcHKh8QSJjLSZdTlsY5CtnL33rlrDTdKTlml5Kx+T01NSPOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\igoro\\OneDrive\\Área de Trabalho\\Repositorio\\SistemaIgreja\\SistemaIgreja.API\\SistemaIgreja.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\igoro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\igoro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\igoro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\igoro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\igoro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\igoro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
